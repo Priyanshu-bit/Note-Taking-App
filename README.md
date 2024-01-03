@@ -42,7 +42,7 @@ Protect the endpoints with basic authentication. Username: admin, Password: pass
 
 ## Testing
 
-To test the API endpoints, use tools like Postman. Follow the instructions in [Testing Documentation](TESTING_DOCUMENTATION.md).
+To test the API endpoints, use tools like Postman. 
 
 ## Getting Started
 
